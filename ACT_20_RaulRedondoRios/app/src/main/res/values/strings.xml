@@ -2,6 +2,6 @@
     <string name="app_name">ACT_20_RaulRedondoRios</string>
     <string name="prem_el_bot">Prem el botó</string>
     <string name="descarregar">Descarregar</string>
-    <string name="descarregant">Descarregant...</string>
+    <string name="descarregant">...</string>
     <string name="descargar">DESCARGAR</string>
 </resources>
